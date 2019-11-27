@@ -29,7 +29,7 @@ It is a framework for easily build relation extraction model.
 OpenNRE original version dataset
 
 ## Usage
-###Generate processed data
+### Generate processed data
 ```bash
 python gen_data.py
 ```
